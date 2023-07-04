@@ -1,3 +1,5 @@
+![An Overview of the Mini Project](https://github.com/naman-parihar2000/react-shopping-cart-with-redux-toolkit/assets/87593367/85718c3d-f31e-4820-a4b8-98544732fdd6)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
